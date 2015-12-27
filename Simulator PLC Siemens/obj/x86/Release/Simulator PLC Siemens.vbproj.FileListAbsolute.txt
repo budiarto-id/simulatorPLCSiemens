@@ -1,0 +1,16 @@
+E:\simulator\Simulator PLC Siemens\Simulator PLC Siemens\obj\x86\Release\Simulator_PLC_Siemens.Form1.resources
+E:\simulator\Simulator PLC Siemens\Simulator PLC Siemens\obj\x86\Release\Simulator_PLC_Siemens.frmAboutDev.resources
+E:\simulator\Simulator PLC Siemens\Simulator PLC Siemens\obj\x86\Release\Simulator_PLC_Siemens.frmAboutProduct.resources
+E:\simulator\Simulator PLC Siemens\Simulator PLC Siemens\obj\x86\Release\Simulator_PLC_Siemens.Resources.resources
+E:\simulator\Simulator PLC Siemens\Simulator PLC Siemens\obj\x86\Release\Simulator_PLC_Siemens.SplashScreen1.resources
+E:\simulator\Simulator PLC Siemens\Simulator PLC Siemens\obj\x86\Release\Simulator PLC Siemens.vbproj.GenerateResource.Cache
+E:\simulator\Simulator PLC Siemens\Simulator PLC Siemens\bin\Release\simulatorPLC.exe.manifest
+E:\simulator\Simulator PLC Siemens\Simulator PLC Siemens\bin\Release\simulatorPLC.application
+E:\simulator\Simulator PLC Siemens\Simulator PLC Siemens\bin\Release\simulatorPLC.exe
+E:\simulator\Simulator PLC Siemens\Simulator PLC Siemens\bin\Release\simulatorPLC.pdb
+E:\simulator\Simulator PLC Siemens\Simulator PLC Siemens\bin\Release\simulatorPLC.xml
+E:\simulator\Simulator PLC Siemens\Simulator PLC Siemens\obj\x86\Release\simulatorPLC.exe.manifest
+E:\simulator\Simulator PLC Siemens\Simulator PLC Siemens\obj\x86\Release\simulatorPLC.application
+E:\simulator\Simulator PLC Siemens\Simulator PLC Siemens\obj\x86\Release\simulatorPLC.exe
+E:\simulator\Simulator PLC Siemens\Simulator PLC Siemens\obj\x86\Release\simulatorPLC.xml
+E:\simulator\Simulator PLC Siemens\Simulator PLC Siemens\obj\x86\Release\simulatorPLC.pdb
